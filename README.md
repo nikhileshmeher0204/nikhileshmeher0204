@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Nikhilesh Meher
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Nikhilesh Meher here!
 
 ## About Me
 - 🎓 Final-year Student at VIT, Vellore
@@ -12,9 +12,6 @@
   <a href="mailto:nikhileshmeher24@gmail.com"> <img align="center" width="27px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-contact-machine-learning-phd-student-reasoning-and-25.png" />
   </a>
   
-## Technology Stack
-Here are some of the technologies I work with:
-
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
