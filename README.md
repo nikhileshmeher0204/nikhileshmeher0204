@@ -5,14 +5,11 @@
 - 💻 Passionate about AI and Machine Learning
 - 🌱 Currently learning advanced AI techniques
 - 📫 How to reach me:
-  <a href="https://www.linkedin.com/in/nikhileshmeher/" style="margin-right: 10px;">
-    <img align="center" alt="Nikhilesh's Linkedin" width="20px" src="https://cdn.pixabay.com/photo/2016/11/18/11/16/social-1834011_1280.png" />
+  <a href="https://www.linkedin.com/in/nikhileshmeher/" style="margin-right: 10px;"> <img align="center" alt="Nikhilesh's Linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
   </a>
-  <a href="https://www.instagram.com/nikhileshmeher24/" style="margin-right: 10px;">
-    <img align="center" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
+  <a href="https://www.instagram.com/nikhileshmeher24/" style="margin-right: 10px;"> <img align="center" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
   </a>
-  <a href="mailto:nikhileshmeher24@gmail.com">
-    <img align="center" width="27px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-contact-machine-learning-phd-student-reasoning-and-25.png" />
+  <a href="mailto:nikhileshmeher24@gmail.com"> <img align="center" width="27px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-contact-machine-learning-phd-student-reasoning-and-25.png" />
   </a>
   
 ## Technology Stack
