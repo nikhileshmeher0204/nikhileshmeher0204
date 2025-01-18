@@ -1,6 +1,6 @@
 # Hi there, I'm Nikhilesh Meher 👋
 
-![Profile Banner](https://your-banner-image-url)
+![](https://komarev.com/ghpvc/?username=nikhileshmeher0204)
 
 ## About Me
 - 🎓 Final-year Student at VIT, Vellore
