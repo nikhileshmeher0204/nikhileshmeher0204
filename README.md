@@ -1,11 +1,17 @@
-# Hi there, I'm Nikhilesh Meher 👋
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Nikhilesh Meher 
 
 ## About Me
 - 🎓 Final-year Student at VIT, Vellore
 - 💻 Passionate about AI and Machine Learning
 - 🌱 Currently learning advanced AI techniques
-- 📫 How to reach me:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhileshmeher) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhileshmeher24@gmail.com)
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/nikhileshmeher/">
+  <img align="left" alt="Harsh's Linkedin" width="20px" src="https://cdn.pixabay.com/photo/2016/11/18/11/16/social-1834011_1280.png" />
+</a>
+<a href="https://www.instagram.com/nikhileshmeher24/">
+  <img align="left"  width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
+  
+  <a href="mailto:nikhileshmeher24@gmail.com.com">
+  <img align="left"  width="27px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-contact-machine-learning-phd-student-reasoning-and-25.png" />
 
 ## Technology Stack
 Here are some of the technologies I work with:
