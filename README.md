@@ -5,7 +5,7 @@
 - 💻 Passionate about AI and Machine Learning
 - 🌱 Currently learning advanced AI techniques
 - 📫 How to reach me:
-  <a href="https://www.linkedin.com/in/nikhileshmeher/" style="margin-right: 10px;"> <img align="center" alt="Nikhilesh's Linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
+  <a href="https://www.linkedin.com/in/nikhileshmeher/" style="margin-right: 10px;"> <img align="center" alt="Nikhilesh's Linkedin" width="20px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" />
   </a>
   <a href="https://www.instagram.com/nikhileshmeher24/" style="margin-right: 10px;"> <img align="center" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
   </a>
