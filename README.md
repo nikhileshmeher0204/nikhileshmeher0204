@@ -3,7 +3,7 @@
 ## About Me
 - 🎓 Final-year Student at VIT, Vellore
 - 💻 Passionate about AI and Machine Learning
-- 🌱 Currently learning advanced AI techniques
+- 🌱 Currently learning full stack web development
 - 📫 How to reach me:
   <a href="https://www.linkedin.com/in/nikhileshmeher/" style="margin-right: 10px;"> <img align="center" alt="Nikhilesh's Linkedin" width="20px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" />
   </a>
