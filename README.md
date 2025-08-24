@@ -1,9 +1,10 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Nikhilesh Meher here!
 
 ## About Me
-- 🎓 Final-year Student at VIT, Vellore
-- 💻 Passionate about AI and Machine Learning
-- 🌱 Currently learning full stack web development
+- 🎓 Final-year CS at VIT, Vellore
+- 💻 Proficient and experience in backend technologies with Java & Spring Boot
+- 🌱 Learning JavaScript & React for frontend development
+- 📱 Building mobile apps with Flutter with Spring Boot backend for side projects  
 - 📫 How to reach me:
   <a href="https://www.linkedin.com/in/nikhileshmeher/" style="margin-right: 10px;"> <img align="center" alt="Nikhilesh's Linkedin" width="20px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" />
   </a>
